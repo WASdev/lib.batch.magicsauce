@@ -21,4 +21,7 @@ The current release is available for download under the "dist/" folder
 Documentation to get started quickly, along with a sample application, are coming very soon!
 
 ## Help!
-Please send an e-mail to [drbatch@us.ibm.com](mailto:drbatch@us.ibm.com)
+Please send an e-mail to [drbatch@us.ibm.com](mailto:drbatch@us.ibm.com).
+
+http://doc.torbat.ch
+

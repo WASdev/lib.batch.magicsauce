@@ -1,0 +1,218 @@
+2015-06-05 11:38:46,880 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ibm.doctorbatch.magicsauce.core:magicsauce-core:1.0-SNAPSHOT @ /Users/timfanelli/git/lib.batch.magicsauce/magicsauce-core/pom.xml.
+2015-06-05 11:38:47,008 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ibm.doctorbatch.magicsauce.websphere:magicsauce-websphere:1.0-SNAPSHOT @ /Users/timfanelli/git/lib.batch.magicsauce/magicsauce-websphere/pom.xml.
+2015-06-05 11:38:47,062 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ibm.doctorbatch.magicsauce.javabatch:magicsauce-javabatch:1.0-SNAPSHOT @ /Users/timfanelli/git/lib.batch.magicsauce/magicsauce-javabatch/pom.xml.
+2015-06-05 11:38:47,113 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ibm.doctorbatch.magicsauce.odm:magicsauce-odm:1.0-SNAPSHOT @ /Users/timfanelli/git/lib.batch.magicsauce/magicsauce-odm/pom.xml.
+2015-06-05 11:38:47,192 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ibm.doctorbatch.magicsauce.mvs:magicsauce-mvs:1.0-SNAPSHOT @ /Users/timfanelli/git/lib.batch.magicsauce/magicsauce-mvs/pom.xml.
+2015-06-05 11:38:47,264 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ibm.doctorbatch.magic-sauce.javabatch.mvs:magicsauce-javabatch-mvs:1.0-SNAPSHOT @ /Users/timfanelli/git/lib.batch.magicsauce/magicsauce-javabatch-mvs/pom.xml.
+2015-06-05 11:38:47,314 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ibm.doctorbatch.magicsauce.websphere.mvs:magicsauce-websphere-mvs:1.0-SNAPSHOT @ /Users/timfanelli/git/lib.batch.magicsauce/magicsauce-websphere-mvs/pom.xml.
+2015-06-05 11:38:48,526 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ibm.doctorbatch.magicsauce.core:magicsauce-core:1.0-SNAPSHOT @ /Users/timfanelli/git/lib.batch.magicsauce/magicsauce-core/pom.xml.
+2015-06-05 11:38:48,535 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /magicsauce-core/src/main/java
+2015-06-05 11:38:48,536 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /magicsauce-core/src/test/java
+2015-06-05 11:38:48,588 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ibm.doctorbatch.magicsauce.javabatch:magicsauce-javabatch:1.0-SNAPSHOT @ /Users/timfanelli/git/lib.batch.magicsauce/magicsauce-javabatch/pom.xml.
+2015-06-05 11:38:48,657 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ibm.doctorbatch.magic-sauce.javabatch.mvs:magicsauce-javabatch-mvs:1.0-SNAPSHOT @ /Users/timfanelli/git/lib.batch.magicsauce/magicsauce-javabatch-mvs/pom.xml.
+2015-06-05 11:38:48,712 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ibm.doctorbatch.magicsauce.mvs:magicsauce-mvs:1.0-SNAPSHOT @ /Users/timfanelli/git/lib.batch.magicsauce/magicsauce-mvs/pom.xml.
+2015-06-05 11:38:48,737 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /magicsauce-mvs/src/main/java
+2015-06-05 11:38:48,737 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /magicsauce-mvs/src/test/java
+2015-06-05 11:38:48,780 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ibm.doctorbatch.magicsauce.odm:magicsauce-odm:1.0-SNAPSHOT @ /Users/timfanelli/git/lib.batch.magicsauce/magicsauce-odm/pom.xml.
+2015-06-05 11:38:48,907 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /magicsauce-odm/src/main/java
+2015-06-05 11:38:48,907 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /magicsauce-odm/src/test/java
+2015-06-05 11:38:48,908 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ibm.doctorbatch.magicsauce.websphere:magicsauce-websphere:1.0-SNAPSHOT @ /Users/timfanelli/git/lib.batch.magicsauce/magicsauce-websphere/pom.xml.
+2015-06-05 11:38:48,988 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ibm.doctorbatch.magicsauce.websphere.mvs:magicsauce-websphere-mvs:1.0-SNAPSHOT @ /Users/timfanelli/git/lib.batch.magicsauce/magicsauce-websphere-mvs/pom.xml.
+2015-06-05 11:38:48,994 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /magicsauce-javabatch-mvs/src/main/java
+2015-06-05 11:38:48,995 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /magicsauce-javabatch-mvs/src/test/java
+2015-06-05 11:38:49,101 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /magicsauce-websphere/src/main/java
+2015-06-05 11:38:49,101 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /magicsauce-websphere/src/test/java
+2015-06-05 11:38:49,171 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /magicsauce-websphere-mvs/src/main/java
+2015-06-05 11:38:49,171 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /magicsauce-websphere-mvs/src/test/java
+2015-06-05 11:38:49,244 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /magicsauce-javabatch/src/main/java
+2015-06-05 11:38:49,244 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /magicsauce-javabatch/src/test/java
+2015-06-05 11:38:49,303 [Worker-0] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 7 project(s) in 6 sec
+2015-06-05 11:38:51,046 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ibm.doctorbatch.magicsauce.core:magicsauce-core:1.0-SNAPSHOT @ /Users/timfanelli/git/lib.batch.magicsauce/magicsauce-core/pom.xml.
+2015-06-05 11:38:51,163 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-05 11:38:51,164 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/timfanelli/git/lib.batch.magicsauce/magicsauce-core/src/main/resources
+2015-06-05 11:38:51,168 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-05 11:38:51,168 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/timfanelli/git/lib.batch.magicsauce/magicsauce-core/src/test/resources
+2015-06-05 11:38:51,296 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ibm.doctorbatch.magicsauce.javabatch:magicsauce-javabatch:1.0-SNAPSHOT @ /Users/timfanelli/git/lib.batch.magicsauce/magicsauce-javabatch/pom.xml.
+2015-06-05 11:38:51,352 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-05 11:38:51,352 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/timfanelli/git/lib.batch.magicsauce/magicsauce-javabatch/src/main/resources
+2015-06-05 11:38:51,354 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-05 11:38:51,354 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/timfanelli/git/lib.batch.magicsauce/magicsauce-javabatch/src/test/resources
+2015-06-05 11:38:51,655 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ibm.doctorbatch.magicsauce.mvs:magicsauce-mvs:1.0-SNAPSHOT @ /Users/timfanelli/git/lib.batch.magicsauce/magicsauce-mvs/pom.xml.
+2015-06-05 11:38:51,703 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-05 11:38:51,703 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/timfanelli/git/lib.batch.magicsauce/magicsauce-mvs/src/main/resources
+2015-06-05 11:38:51,705 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-05 11:38:51,705 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/timfanelli/git/lib.batch.magicsauce/magicsauce-mvs/src/test/resources
+2015-06-05 11:38:52,394 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ibm.doctorbatch.magic-sauce.javabatch.mvs:magicsauce-javabatch-mvs:1.0-SNAPSHOT @ /Users/timfanelli/git/lib.batch.magicsauce/magicsauce-javabatch-mvs/pom.xml.
+2015-06-05 11:38:52,474 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-05 11:38:52,474 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/timfanelli/git/lib.batch.magicsauce/magicsauce-javabatch-mvs/src/main/resources
+2015-06-05 11:38:52,476 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-05 11:38:52,476 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/timfanelli/git/lib.batch.magicsauce/magicsauce-javabatch-mvs/src/test/resources
+2015-06-05 11:38:52,712 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ibm.doctorbatch.magicsauce.odm:magicsauce-odm:1.0-SNAPSHOT @ /Users/timfanelli/git/lib.batch.magicsauce/magicsauce-odm/pom.xml.
+2015-06-05 11:38:52,796 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-05 11:38:52,797 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/timfanelli/git/lib.batch.magicsauce/magicsauce-odm/src/main/resources
+2015-06-05 11:38:52,800 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-05 11:38:52,800 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/timfanelli/git/lib.batch.magicsauce/magicsauce-odm/src/test/resources
+2015-06-05 11:38:54,267 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ibm.doctorbatch.magicsauce.websphere:magicsauce-websphere:1.0-SNAPSHOT @ /Users/timfanelli/git/lib.batch.magicsauce/magicsauce-websphere/pom.xml.
+2015-06-05 11:38:54,352 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-05 11:38:54,352 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/timfanelli/git/lib.batch.magicsauce/magicsauce-websphere/src/main/resources
+2015-06-05 11:38:54,354 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-05 11:38:54,354 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/timfanelli/git/lib.batch.magicsauce/magicsauce-websphere/src/test/resources
+2015-06-05 11:38:54,565 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ibm.doctorbatch.magicsauce.websphere.mvs:magicsauce-websphere-mvs:1.0-SNAPSHOT @ /Users/timfanelli/git/lib.batch.magicsauce/magicsauce-websphere-mvs/pom.xml.
+2015-06-05 11:38:54,627 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-05 11:38:54,627 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/timfanelli/git/lib.batch.magicsauce/magicsauce-websphere-mvs/src/main/resources
+2015-06-05 11:38:54,628 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-05 11:38:54,629 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/timfanelli/git/lib.batch.magicsauce/magicsauce-websphere-mvs/src/test/resources
+2015-06-05 11:40:54,078 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-05 11:40:54,079 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/timfanelli/git/lib.batch.magicsauce/magicsauce-websphere/src/main/resources
+2015-06-05 11:40:54,082 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-05 11:40:54,082 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/timfanelli/git/lib.batch.magicsauce/magicsauce-websphere/src/test/resources
+2015-06-05 11:40:54,398 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-05 11:40:54,398 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/timfanelli/git/lib.batch.magicsauce/magicsauce-websphere-mvs/src/main/resources
+2015-06-05 11:40:54,399 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-05 11:40:54,400 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/timfanelli/git/lib.batch.magicsauce/magicsauce-websphere-mvs/src/test/resources
+2015-06-05 11:41:08,409 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-05 11:41:08,410 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/timfanelli/git/lib.batch.magicsauce/magicsauce-websphere/src/main/resources
+2015-06-05 11:41:08,411 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-05 11:41:08,412 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/timfanelli/git/lib.batch.magicsauce/magicsauce-websphere/src/test/resources
+2015-06-05 11:41:28,706 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-05 11:41:28,706 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/timfanelli/git/lib.batch.magicsauce/magicsauce-websphere/src/main/resources
+2015-06-05 11:41:28,710 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-05 11:41:28,710 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/timfanelli/git/lib.batch.magicsauce/magicsauce-websphere/src/test/resources
+2015-06-05 11:41:28,793 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-05 11:41:28,794 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/timfanelli/git/lib.batch.magicsauce/magicsauce-websphere-mvs/src/main/resources
+2015-06-05 11:41:28,795 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-05 11:41:28,796 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/timfanelli/git/lib.batch.magicsauce/magicsauce-websphere-mvs/src/test/resources
+2015-06-05 11:41:38,069 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-05 11:41:38,069 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/timfanelli/git/lib.batch.magicsauce/magicsauce-websphere/src/main/resources
+2015-06-05 11:41:38,070 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-05 11:41:38,070 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/timfanelli/git/lib.batch.magicsauce/magicsauce-websphere/src/test/resources
+2015-06-05 11:41:38,148 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-05 11:41:38,148 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/timfanelli/git/lib.batch.magicsauce/magicsauce-websphere-mvs/src/main/resources
+2015-06-05 11:41:38,150 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-05 11:41:38,150 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/timfanelli/git/lib.batch.magicsauce/magicsauce-websphere-mvs/src/test/resources
+2015-06-05 11:42:05,025 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-05 11:42:05,025 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/timfanelli/git/lib.batch.magicsauce/magicsauce-websphere-mvs/src/main/resources
+2015-06-05 11:42:05,027 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-05 11:42:05,027 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/timfanelli/git/lib.batch.magicsauce/magicsauce-websphere-mvs/src/test/resources
+2015-06-05 11:42:11,688 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-05 11:42:11,689 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/timfanelli/git/lib.batch.magicsauce/magicsauce-websphere-mvs/src/main/resources
+2015-06-05 11:42:11,692 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-05 11:42:11,692 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/timfanelli/git/lib.batch.magicsauce/magicsauce-websphere-mvs/src/test/resources
+2015-06-05 11:51:55,848 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-05 11:51:55,851 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/timfanelli/git/lib.batch.magicsauce/magicsauce-websphere/src/main/resources
+2015-06-05 11:51:55,853 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-05 11:51:55,853 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/timfanelli/git/lib.batch.magicsauce/magicsauce-websphere/src/test/resources
+2015-06-05 11:51:56,891 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-05 11:51:56,891 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/timfanelli/git/lib.batch.magicsauce/magicsauce-websphere/src/main/resources
+2015-06-05 11:51:56,892 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-05 11:51:56,892 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/timfanelli/git/lib.batch.magicsauce/magicsauce-websphere/src/test/resources
+2015-06-05 12:11:02,383 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-05 12:11:02,384 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/timfanelli/git/lib.batch.magicsauce/magicsauce-javabatch/src/main/resources
+2015-06-05 12:11:02,386 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-05 12:11:02,386 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/timfanelli/git/lib.batch.magicsauce/magicsauce-javabatch/src/test/resources
+2015-06-05 12:11:03,491 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-05 12:11:03,492 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/timfanelli/git/lib.batch.magicsauce/magicsauce-core/src/main/resources
+2015-06-05 12:11:03,494 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-05 12:11:03,495 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/timfanelli/git/lib.batch.magicsauce/magicsauce-core/src/test/resources
+2015-06-05 12:11:03,505 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-05 12:11:03,506 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/timfanelli/git/lib.batch.magicsauce/magicsauce-javabatch/src/main/resources
+2015-06-05 12:11:03,508 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-05 12:11:03,508 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/timfanelli/git/lib.batch.magicsauce/magicsauce-javabatch/src/test/resources
+2015-06-05 12:18:35,400 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-05 12:18:35,401 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/timfanelli/git/lib.batch.magicsauce/magicsauce-javabatch/src/main/resources
+2015-06-05 12:18:35,402 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-05 12:18:35,402 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/timfanelli/git/lib.batch.magicsauce/magicsauce-javabatch/src/test/resources
+2015-06-05 12:18:36,423 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-05 12:18:36,423 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/timfanelli/git/lib.batch.magicsauce/magicsauce-core/src/main/resources
+2015-06-05 12:18:36,424 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-05 12:18:36,425 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/timfanelli/git/lib.batch.magicsauce/magicsauce-core/src/test/resources
+2015-06-05 12:18:44,918 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-05 12:18:44,918 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/timfanelli/git/lib.batch.magicsauce/magicsauce-javabatch/src/main/resources
+2015-06-05 12:18:44,921 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-05 12:18:44,921 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/timfanelli/git/lib.batch.magicsauce/magicsauce-javabatch/src/test/resources
+2015-06-05 12:18:45,935 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-05 12:18:45,935 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/timfanelli/git/lib.batch.magicsauce/magicsauce-core/src/main/resources
+2015-06-05 12:18:45,936 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-05 12:18:45,936 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/timfanelli/git/lib.batch.magicsauce/magicsauce-core/src/test/resources
+2015-06-05 12:21:21,352 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-05 12:21:21,352 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/timfanelli/git/lib.batch.magicsauce/magicsauce-javabatch/src/main/resources
+2015-06-05 12:21:21,353 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-05 12:21:21,353 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/timfanelli/git/lib.batch.magicsauce/magicsauce-javabatch/src/test/resources
+2015-06-05 12:21:22,368 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-05 12:21:22,368 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/timfanelli/git/lib.batch.magicsauce/magicsauce-core/src/main/resources
+2015-06-05 12:21:22,369 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-05 12:21:22,369 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/timfanelli/git/lib.batch.magicsauce/magicsauce-core/src/test/resources
+2015-06-05 12:24:14,595 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-05 12:24:14,596 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/timfanelli/git/lib.batch.magicsauce/magicsauce-javabatch/src/main/resources
+2015-06-05 12:24:14,599 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-05 12:24:14,600 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/timfanelli/git/lib.batch.magicsauce/magicsauce-javabatch/src/test/resources
+2015-06-05 12:24:15,612 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-05 12:24:15,612 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/timfanelli/git/lib.batch.magicsauce/magicsauce-core/src/main/resources
+2015-06-05 12:24:15,615 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-05 12:24:15,615 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/timfanelli/git/lib.batch.magicsauce/magicsauce-core/src/test/resources
+2015-06-05 12:26:18,694 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-05 12:26:18,694 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/timfanelli/git/lib.batch.magicsauce/magicsauce-javabatch/src/main/resources
+2015-06-05 12:26:18,695 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-05 12:26:18,696 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/timfanelli/git/lib.batch.magicsauce/magicsauce-javabatch/src/test/resources
+2015-06-05 12:26:19,712 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-05 12:26:19,713 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/timfanelli/git/lib.batch.magicsauce/magicsauce-core/src/main/resources
+2015-06-05 12:26:19,714 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-05 12:26:19,714 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/timfanelli/git/lib.batch.magicsauce/magicsauce-core/src/test/resources
+2015-06-05 12:27:11,164 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-05 12:27:11,165 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/timfanelli/git/lib.batch.magicsauce/magicsauce-javabatch/src/main/resources
+2015-06-05 12:27:11,166 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-05 12:27:11,166 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/timfanelli/git/lib.batch.magicsauce/magicsauce-javabatch/src/test/resources
+2015-06-05 12:27:12,179 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-05 12:27:12,179 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/timfanelli/git/lib.batch.magicsauce/magicsauce-core/src/main/resources
+2015-06-05 12:27:12,180 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-05 12:27:12,181 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/timfanelli/git/lib.batch.magicsauce/magicsauce-core/src/test/resources
+2015-06-05 12:45:04,524 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-05 12:45:04,533 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/timfanelli/git/lib.batch.magicsauce/magicsauce-core/src/main/resources
+2015-06-05 12:45:04,535 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-05 12:45:04,535 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/timfanelli/git/lib.batch.magicsauce/magicsauce-core/src/test/resources
+2015-06-05 12:45:04,550 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-05 12:45:04,550 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/timfanelli/git/lib.batch.magicsauce/magicsauce-javabatch/src/main/resources
+2015-06-05 12:45:04,551 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-05 12:45:04,551 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/timfanelli/git/lib.batch.magicsauce/magicsauce-javabatch/src/test/resources
+2015-06-05 12:45:04,610 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-05 12:45:04,610 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/timfanelli/git/lib.batch.magicsauce/magicsauce-mvs/src/main/resources
+2015-06-05 12:45:04,613 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-05 12:45:04,613 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/timfanelli/git/lib.batch.magicsauce/magicsauce-mvs/src/test/resources
+2015-06-05 12:45:04,681 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-05 12:45:04,681 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/timfanelli/git/lib.batch.magicsauce/magicsauce-javabatch-mvs/src/main/resources
+2015-06-05 12:45:04,682 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-05 12:45:04,682 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/timfanelli/git/lib.batch.magicsauce/magicsauce-javabatch-mvs/src/test/resources
+2015-06-05 12:45:04,718 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-05 12:45:04,718 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/timfanelli/git/lib.batch.magicsauce/magicsauce-odm/src/main/resources
+2015-06-05 12:45:04,719 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-05 12:45:04,719 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/timfanelli/git/lib.batch.magicsauce/magicsauce-odm/src/test/resources
+2015-06-05 12:45:04,745 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-05 12:45:04,745 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/timfanelli/git/lib.batch.magicsauce/magicsauce-websphere/src/main/resources
+2015-06-05 12:45:04,746 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-05 12:45:04,746 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/timfanelli/git/lib.batch.magicsauce/magicsauce-websphere/src/test/resources
+2015-06-05 12:45:04,780 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-05 12:45:04,780 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/timfanelli/git/lib.batch.magicsauce/magicsauce-websphere-mvs/src/main/resources
+2015-06-05 12:45:04,781 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-05 12:45:04,781 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/timfanelli/git/lib.batch.magicsauce/magicsauce-websphere-mvs/src/test/resources
+2015-06-05 13:09:22,565 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-05 13:09:22,566 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/timfanelli/git/lib.batch.magicsauce/magicsauce-javabatch-mvs/src/main/resources
+2015-06-05 13:09:22,567 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-05 13:09:22,567 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/timfanelli/git/lib.batch.magicsauce/magicsauce-javabatch-mvs/src/test/resources
+2015-06-05 13:09:47,869 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-05 13:09:47,869 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/timfanelli/git/lib.batch.magicsauce/magicsauce-javabatch-mvs/src/main/resources
+2015-06-05 13:09:47,870 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-05 13:09:47,870 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/timfanelli/git/lib.batch.magicsauce/magicsauce-javabatch-mvs/src/test/resources
+2015-06-05 13:10:00,903 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-05 13:10:00,904 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/timfanelli/git/lib.batch.magicsauce/magicsauce-javabatch-mvs/src/main/resources
+2015-06-05 13:10:00,906 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-05 13:10:00,906 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/timfanelli/git/lib.batch.magicsauce/magicsauce-javabatch-mvs/src/test/resources
+2015-06-05 13:52:36,052 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ibm.doctorbatch.magicsauce.core:magicsauce-core:1.0-SNAPSHOT @ /Users/timfanelli/git/lib.batch.magicsauce/magicsauce-core/pom.xml.
+2015-06-05 13:52:36,151 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-05 13:52:36,151 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/timfanelli/git/lib.batch.magicsauce/magicsauce-core/src/main/resources
+2015-06-05 13:52:36,152 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-05 13:52:36,152 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/timfanelli/git/lib.batch.magicsauce/magicsauce-core/src/test/resources
+2015-06-05 13:52:36,270 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ibm.doctorbatch.magicsauce.javabatch:magicsauce-javabatch:1.0-SNAPSHOT @ /Users/timfanelli/git/lib.batch.magicsauce/magicsauce-javabatch/pom.xml.
+2015-06-05 13:52:36,360 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-05 13:52:36,361 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/timfanelli/git/lib.batch.magicsauce/magicsauce-javabatch/src/main/resources
+2015-06-05 13:52:36,362 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-05 13:52:36,362 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/timfanelli/git/lib.batch.magicsauce/magicsauce-javabatch/src/test/resources

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="com.ibm.websphere.batch.BatchContainerApplicationException"/>
+<fullyQualifiedTypeName name="com.ibm.doctorbatch.magicsauce.BatchException"/>
+<fullyQualifiedTypeName name="com.ibm.doctorbatch.magicsauce.ClassUtil"/>
+<fullyQualifiedTypeName name="java.lang.Throwable"/>
+<fullyQualifiedTypeName name="com.ibm.doctorbatch.magicsauce.mvs.MVSRecordReader"/>
+<fullyQualifiedTypeName name="com.ibm.doctorbatch.magicsauce.mvs.MVSRecordWriter"/>
+</qualifiedTypeNameHistroy>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0                       http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+
+	<groupId>com.ibm.doctorbatch.magicsauce</groupId>
+	<artifactId>magicsauce</artifactId>
+	<name>Doctor Batch Magic Sauce</name>
+	<packaging>pom</packaging>
+	<version>0.1-SNAPSHOT</version>
+
+	<organization>
+		<name>Doctor Batch (drbatch@us.ibm.com, doc@torbat.ch)</name>
+	</organization>
+
+	<properties>
+		<timestamp>${maven.build.timestamp}</timestamp>
+		<maven.build.timestamp.format>yyyyMMdd-HHmm</maven.build.timestamp.format>
+		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+	</properties>
+
+	<modules>
+		<module>magicsauce-core</module>
+		<module>magicsauce-websphere</module>
+		<module>magicsauce-javabatch</module>
+		<module>magicsauce-odm</module>
+		<module>magicsauce-mvs</module>
+		<module>magicsauce-javabatch-mvs</module>
+		<module>magicsauce-websphere-mvs</module>
+	</modules>
+
+	<build>
+		<pluginManagement>
+			<plugins>
+				<plugin>
+					<groupId>org.apache.maven.plugins</groupId>
+					<artifactId>maven-compiler-plugin</artifactId>
+					<configuration>
+						<source>1.6</source>
+						<target>1.6</target>
+					</configuration>
+				</plugin>
+				<plugin>
+					<groupId>org.apache.maven.plugins</groupId>
+					<artifactId>maven-jar-plugin</artifactId>
+					<configuration>
+						<finalName>${project.artifactId}-${project.version}</finalName>
+						<outputDirectory>../dist/${timestamp}/</outputDirectory>
+						<archive>
+							<manifest>
+								<addDefaultImplementationEntries>true</addDefaultImplementationEntries>
+							</manifest>
+						</archive>
+					</configuration>
+				</plugin>
+			</plugins>
+		</pluginManagement>
+
+	</build>
+</project>

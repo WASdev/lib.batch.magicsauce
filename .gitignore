@@ -8,4 +8,8 @@ RemoteSystemsTempFiles
 *.swp
 *~
 
-
+# Eclipse
+.project
+.metadata
+.settings
+.classpath

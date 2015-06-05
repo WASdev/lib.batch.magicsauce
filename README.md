@@ -19,3 +19,6 @@ The current release is available for download under the "dist/" folder
 
 ## Getting Started
 Please see the BigBlueBank example under the samples directory while we finish our documentation!
+
+## Help!
+Please send an e-mail to [drbatch@us.ibm.com](mailto:drbatch@us.ibm.com)

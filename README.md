@@ -1,8 +1,8 @@
 # Doctor Batch's Magic Sauce
 ## About
 Doctor Batch's Magic Sauce is provides two key capabilities to batch application developers adopting IBM's Java Batch platforms built on WebSphere Application Server:
-1. An application framework for development of batch applications in the Java programming language for deployment and parallel testing in WebSphere Batch ("traditional" WebSphere Application Server) and Java EE Batch (Liberty Profile v9 Feature with EE 7)
-2. A library of reusable batch artifacts (readers, writers, processors, listeners, etc) for which there are other IBM dependencies - for example:
+- An application framework for development of batch applications in the Java programming language for deployment and parallel testing in WebSphere Batch ("traditional" WebSphere Application Server) and Java EE Batch (Liberty Profile v9 Feature with EE 7)
+- A library of reusable batch artifacts (readers, writers, processors, listeners, etc) for which there are other IBM dependencies - for example:
 	- Readers and Writers using IBM JZOS to access record oriented data in MVS
 	- Processor implementations that invoke IBM Operational Decision Manager business rules applications
 
